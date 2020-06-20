@@ -23,3 +23,7 @@ p{
     -webkit-background-clip: text;
     color: transparent;
 }
+
+body{
+    background-color: pink;
+}
